@@ -1,0 +1,5 @@
+# AboutPhone Info
+ro.infinity.soc=Snapdragon 660
+ro.infinity.battery=3000 mAh
+ro.infinity.display=1080 x 1920, 60Hz
+ro.infinity.camera=16MP
